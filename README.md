@@ -12,7 +12,23 @@
 
 *MENTOR*:NEELA SANTHOSH
 
-There are 3 features in this project, 1. Port Scanner, 2. Directory Bruteforcer, 3. Login Bruteforcer. All are combined in main file.
+# Penetration Testing Toolkit
+
+This project is a modular Python-based penetration testing toolkit developed as part of the CODTECH Internship Task-3.
+
+## Modules
+1. Port Scanner – Identifies open TCP ports
+2. Directory Bruteforcer – Finds accessible directories
+3. Login Bruteforce Simulator – Demonstrates authentication testing
+
+## Technologies Used
+- Python
+- Requests
+- Socket Programming
+
+## Disclaimer
+This toolkit is strictly for educational purposes and must only be used on authorized systems or test environments.
+
 
 # OUTPUT
 
