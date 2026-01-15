@@ -12,7 +12,7 @@
 
 *MENTOR*:NEELA SANTHOSH
 
-#OUTPUT
+# OUTPUT
 
 output_1:
 
