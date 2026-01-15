@@ -12,6 +12,8 @@
 
 *MENTOR*:NEELA SANTHOSH
 
+There are 3 features in this project, 1. Port Scanner, 2. Directory Bruteforcer, 3. Login Bruteforcer. All are combined in main file.
+
 # OUTPUT
 
 output_1:
